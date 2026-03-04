@@ -127,3 +127,7 @@ dist
 
 # SvelteKit build / generate output
 .svelte-kit
+
+### Claude ###
+.claude/settings.local.json
+CLAUDE.local.md
